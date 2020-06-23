@@ -25,19 +25,20 @@
   * [startergate/The-Intersection](https://github.com/startergate/The-Intersection)
     * [startergate/The-Intersection-Server](https://github.com/startergate/The-Intersection-Server)
   * [HIVE-Ticket](https://github.com/startergate/HIVE-Ticket)
-  
+
 ### 네트워크 프로그래밍
 * [2019.network](https://github.com/startergate-learns-stuff/2019.network)
 * 산출물
   * [startergate/HIVE](https://github.com/startergate/HIVE)
     * [startergate/HIVEAPI](https://github.com/startergate/HIVEAPI)
+
 ### App프로그래밍
 * [Learn-Java-Android](https://github.com/startergate-learns-stuff/Learn-Java-Android)
 * [Learn-Android](https://github.com/startergate-learns-stuff/Learn-Android)
 * 산출물
   * [startergate/Thundercloudy](https://github.com/startergate/Thundercloudy)
     * [startergate/Thundercloudy-Server](https://github.com/startergate/Thundercloudy-Server)
-    
+
 ### 자료구조
 * [2019.structure](https://github.com/startergate-learns-stuff/2019.structure)
 
@@ -57,7 +58,7 @@
 * [2018.GSM.web](https://github.com/startergate-learns-stuff/2018.GSM.web)
 * 산출물
   * [startergate/Nearby](https://github.com/startergate/Nearby)
-  
+
 ### 방과후
 * [Learn-Python](https://github.com/startergate-learns-stuff/Learn-Python)
 
