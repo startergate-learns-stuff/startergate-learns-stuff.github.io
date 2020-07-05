@@ -1,4 +1,4 @@
-# [STARTERGATE Learns Stuff](https://github.com/startergate-learns-stuff)
+# [STARTERGATE Learns Stuff.](https://github.com/startergate-learns-stuff)
 학년별로 공부했던 내용들이 과목별로 정리되어 있습니다.
 ## 3학년
 ### 소프트웨어 공학 실무
