@@ -10,6 +10,7 @@
 ### 빅데이터 분석
 * [Learn-DataScience](https://github.com/startergate-learns-stuff/Learn-DataScience)
 * [Learn-DataScience-MachineLearning](https://github.com/startergate-learns-stuff/Learn-DataScience-MachineLearning)
+* [Learn-DataScience-JSP](https://github.com/startergate-learns-stuff/Learn-DataScience-JSP)
 
 ### 스마트 문화 앱 콘텐츠 제작
 * [Learn-SmartCultureAppContent](https://github.com/startergate-learns-stuff/Learn-SmartCultureAppContent)
