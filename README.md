@@ -18,6 +18,9 @@
 ### 웹 프로그래밍 실무
 * [Learn-Node](https://github.com/startergate-learns-stuff/Learn-Node)
 
+### 기타
+* [Learn-Coding-Test](https://github.com/startergate-learns-stuff/Learn-Coding-Test)
+
 ## 2학년
 ### 응용 프로그래밍 개발
 * [Learn-CPP](https://github.com/startergate-learns-stuff/Learn-CPP)
