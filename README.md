@@ -64,9 +64,6 @@
 * 산출물
   * [startergate/Nearby](https://github.com/startergate/Nearby)
 
-### 자료구조
-* [2019.structure](https://github.com/startergate-learns-stuff/2019.structure)
-
 ### 방과후
 * [Learn-Python](https://github.com/startergate-learns-stuff/Learn-Python)
 
