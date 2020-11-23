@@ -19,6 +19,9 @@
 * [Learn-Node](https://github.com/startergate-learns-stuff/Learn-Node)
 * [Learn-Vue](https://github.com/startergate-learns-stuff/Learn-Vue)
 
+### 발표 자료
+* [Presentation-2020](https://github.com/startergate-learns-stuff/Presentation-2020)
+
 ### 기타
 * [Learn-Coding-Test](https://github.com/startergate-learns-stuff/Learn-Coding-Test)
 
